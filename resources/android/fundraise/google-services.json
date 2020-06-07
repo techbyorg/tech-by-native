@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "375013936005",
+    "firebase_url": "https://techby.firebaseio.com",
+    "project_id": "techby",
+    "storage_bucket": "techby.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:375013936005:android:02e67dd9e280cab867d2ec",
+        "android_client_info": {
+          "package_name": "org.techby.fundraise"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "375013936005-mv546e4asc25nill5jrnr4fnkmiaepd4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-VtLFCF5gHcKdCbZxbKImZAWjstflfaI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "375013936005-mv546e4asc25nill5jrnr4fnkmiaepd4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "375013936005-vm6g435fmqhe4vds5nriiv8259jkbiik.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.techby.fundraise"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

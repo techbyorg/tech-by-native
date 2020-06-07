@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>375013936005-vm6g435fmqhe4vds5nriiv8259jkbiik.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.375013936005-vm6g435fmqhe4vds5nriiv8259jkbiik</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBvjzeflHVC8j9Pymuh0RosYFiiLFQyTsA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>375013936005</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>org.techby.fundraise</string>
+	<key>PROJECT_ID</key>
+	<string>techby</string>
+	<key>STORAGE_BUCKET</key>
+	<string>techby.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:375013936005:ios:0b4314b61a23b02267d2ec</string>
+	<key>DATABASE_URL</key>
+	<string>https://techby.firebaseio.com</string>
+</dict>
+</plist>
