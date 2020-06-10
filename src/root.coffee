@@ -101,7 +101,7 @@ if isiOS and iOSVersion >= 8 and not CookieService.get 'iframe_cookie_set'
     matches = EXTERNAL_URL.match /^https?\:\/\/([^\/?#]+)/i
     base = matches?[0]
     if base
-      window.location.href = "#{base}/setcookie?redirect_url=" +
+      window.location.href = "#{base}/setcookie?redirectUrl=" +
                    encodeURIComponent("#{window.location.href}?redirected")
   document.addEventListener 'deviceready', getCookiePerms, false
 else if config.PLATFORM is 'native'
