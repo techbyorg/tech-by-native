@@ -146,7 +146,7 @@ gulp.task 'cordova:build:release:android:32', (cb) ->
     # TODO: swap crosswalk
     'cd cordova &&
       cordova build android --release -- --packageType=bundle --versionCode=' +
-      ("#{npmConfig.version.replace(/\./g, '0')}6 -- --minSdkVersion=21")
+      ("#{npmConfig.version.replace(/\./g, '0')}6 -- --minSdkVersion=22")
     # 'cd cordova &&
     #   cordova build android --release -- --maxSdkVersion=20 --versionCode=' +
     #   ("#{npmConfig.version.replace(/\./g, '0')}")
@@ -424,7 +424,7 @@ gulp.task 'cordova:create:android', (cb) ->
 
 
 gulp.task 'cordova:platform:android', (cb) ->
-  exec 'cd cordova && cordova platform add android@8.1.0 --no-fetch', (err, stdout, stderr) ->
+  exec 'cd cordova && cordova platform add android@9.0.0 --no-fetch', (err, stdout, stderr) ->
     console.log stdout, stderr
     cb err
 
