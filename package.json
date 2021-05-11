@@ -44,7 +44,7 @@
     "cordova-custom-config": "^5.1.0",
     "gulp-task": "^2.1.0",
     "libxmljs": "^0.19.5",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.21",
     "natives": "^1.1.6",
     "portal-gun": "github:claydotio/portal-gun",
     "raf": "^3.4.1",
